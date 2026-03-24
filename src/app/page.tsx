@@ -74,7 +74,7 @@ export default function LandingPage() {
           href: "tel:+17202779151",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg?_wi=1"
     />
   </div>
 
@@ -124,7 +124,7 @@ export default function LandingPage() {
           title: "Interior Detail",
           description: "Deep cleaning and conditioning for a fresh, hygienic cabin. Removes dirt, stains, and odors, restoring your interior to like-new condition.",
           media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg?_wi=1",
           },
           items: [
             {
@@ -143,7 +143,7 @@ export default function LandingPage() {
           title: "Exterior Detail",
           description: "Thorough wash, wax, and tire dressing for a dazzling shine. Protects paint and leaves your vehicle looking immaculate.",
           media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg?_wi=1",
           },
           items: [
             {
@@ -162,7 +162,7 @@ export default function LandingPage() {
           title: "Full Detail",
           description: "Our most popular package, combining interior and exterior services for a complete vehicle transformation, inside and out.",
           media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg?_wi=2",
           },
           items: [
             {
@@ -181,7 +181,7 @@ export default function LandingPage() {
           title: "Headlight Restoration",
           description: "Restore clarity and brightness to foggy headlights, improving visibility and enhancing your vehicle's appearance. Save money vs. replacement!",
           media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg?_wi=1",
           },
           items: [
             {
@@ -223,7 +223,7 @@ export default function LandingPage() {
           name: "Interior Reimagined",
           price: "Like-New Feel",
           variant: "Deep Clean",
-          imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg?_wi=2",
           imageAlt: "Immaculate car interior after detailing",
         },
         {
@@ -231,7 +231,7 @@ export default function LandingPage() {
           name: "Exterior Brilliance",
           price: "Showroom Shine",
           variant: "Paint Protection",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg?_wi=2",
           imageAlt: "Glossy car exterior after detailing",
         },
         {
@@ -239,7 +239,7 @@ export default function LandingPage() {
           name: "Headlight Clarity",
           price: "Enhanced Safety",
           variant: "Restored Visibility",
-          imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg?_wi=2",
           imageAlt: "Clear, restored car headlight",
         },
       ]}
