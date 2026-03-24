@@ -11,7 +11,7 @@ import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleAp
 import PricingCardFive from '@/components/sections/pricing/PricingCardFive';
 import ProductCardFour from '@/components/sections/product/ProductCardFour';
 import TestimonialCardTwelve from '@/components/sections/testimonial/TestimonialCardTwelve';
-import { Award, Car, Droplets, Package, Sparkles, SprayCan, Headlights, PiggyBank } from "lucide-react";
+import { Award, Car, Droplets, Package, Sparkles, SprayCan, Lightbulb, PiggyBank } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -131,7 +131,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg"},
           items: [
             {
-              icon: Headlights,
+              icon: Lightbulb,
               text: "Improved Visibility"},
             {
               icon: PiggyBank,
