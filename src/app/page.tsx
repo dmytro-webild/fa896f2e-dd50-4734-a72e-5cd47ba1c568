@@ -58,7 +58,7 @@ export default function LandingPage() {
         {
           text: "Call Now",          href: "tel:+17202779151"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg?_wi=1"
     />
   </div>
 
@@ -89,7 +89,7 @@ export default function LandingPage() {
       features={[
         {
           id: "interior-detail",          title: "Interior Detail",          description: "Deep cleaning and conditioning for a fresh, hygienic cabin. Removes dirt, stains, and odors, restoring your interior to like-new condition.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg?_wi=1"},
           items: [
             {
               icon: Car,
@@ -102,7 +102,7 @@ export default function LandingPage() {
         },
         {
           id: "exterior-detail",          title: "Exterior Detail",          description: "Thorough wash, wax, and tire dressing for a dazzling shine. Protects paint and leaves your vehicle looking immaculate.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg?_wi=1"},
           items: [
             {
               icon: Sparkles,
@@ -115,7 +115,7 @@ export default function LandingPage() {
         },
         {
           id: "full-detail",          title: "Full Detail",          description: "Our most popular package, combining interior and exterior services for a complete vehicle transformation, inside and out.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/guy-rinsing-auto-car-wash-with-water-gun_651396-2789.jpg?_wi=2"},
           items: [
             {
               icon: Award,
@@ -128,7 +128,7 @@ export default function LandingPage() {
         },
         {
           id: "headlight-restoration",          title: "Headlight Restoration",          description: "Restore clarity and brightness to foggy headlights, improving visibility and enhancing your vehicle's appearance. Save money vs. replacement!",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg?_wi=1"},
           items: [
             {
               icon: Lightbulb,
@@ -163,11 +163,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         {
-          id: "interior-transform",          name: "Interior Reimagined",          price: "Like-New Feel",          variant: "Deep Clean",          imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg",          imageAlt: "Immaculate car interior after detailing"},
+          id: "interior-transform",          name: "Interior Reimagined",          price: "Like-New Feel",          variant: "Deep Clean",          imageSrc: "http://img.b2bpic.net/free-photo/luggage-seen-from-rear-car-window_23-2150934355.jpg?_wi=2",          imageAlt: "Immaculate car interior after detailing"},
         {
-          id: "exterior-transform",          name: "Exterior Brilliance",          price: "Showroom Shine",          variant: "Paint Protection",          imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg",          imageAlt: "Glossy car exterior after detailing"},
+          id: "exterior-transform",          name: "Exterior Brilliance",          price: "Showroom Shine",          variant: "Paint Protection",          imageSrc: "http://img.b2bpic.net/free-photo/man-polish-car-garage_1157-26067.jpg?_wi=2",          imageAlt: "Glossy car exterior after detailing"},
         {
-          id: "headlight-transform",          name: "Headlight Clarity",          price: "Enhanced Safety",          variant: "Restored Visibility",          imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg",          imageAlt: "Clear, restored car headlight"},
+          id: "headlight-transform",          name: "Headlight Clarity",          price: "Enhanced Safety",          variant: "Restored Visibility",          imageSrc: "http://img.b2bpic.net/free-photo/headlight-lamp-car_1339-3036.jpg?_wi=2",          imageAlt: "Clear, restored car headlight"},
       ]}
       title="Witness the Carvo Transformation"
       description="From daily grime to showroom shine – see how Carvo Auto Care meticulously restores your vehicle to its like-new glory, enhancing its appearance and protecting its value."
